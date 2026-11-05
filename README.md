@@ -1,6 +1,6 @@
 # Hey, I'm Jordan 👋
 
-I'm a 26-year-old CTO and co-founder building **Greenbook**, an startup that has been leading innovation in medical AI in Brazil, and recently worldwide, after surpassing ChatGPT for Clinicians in its own benchmark for clinical consultations and various topics important to doctors. I work across the entire stack, from infrastructure to product, and I'm deeply interested in how AI can transform regulated industries where the margin for error is close to zero.
+I'm a 27-year-old CTO and co-founder building **Greenbook**, an startup that has been leading innovation in medical AI in Brazil, and recently worldwide, after surpassing ChatGPT for Clinicians in its own benchmark for clinical consultations and various topics important to doctors. I work across the entire stack, from infrastructure to product, and I'm deeply interested in how AI can transform regulated industries where the margin for error is close to zero.
 
 ## What I'm building
 
